@@ -1,7 +1,7 @@
 {
         "manifest_version": 3,
-        "name": "Hello Extensions",
-        "description": "Base Level Extension",
+        "name": "Expocall",
+        "description": "Client",
         "version": "1.0",
         "display": "fullscreen",
         "background_color": "#d0dd27"
